@@ -1,0 +1,22 @@
+{
+  "name": "docker-app",
+  "version": "1.0.0",
+  "description": "Docker test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendellrodrigues/docker-app.git"
+  },
+  "author": "Wendell Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendellrodrigues/docker-app/issues"
+  },
+  "homepage": "https://github.com/wendellrodrigues/docker-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
